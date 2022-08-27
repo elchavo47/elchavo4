@@ -168,10 +168,10 @@ function _0x2559(_0x75be18, _0x458b6b) {
                     'callback_data': 'df'
                 }],
                 [{
-                    'text': 'Arka\x20Kamera\x20📷',
+                    'text': 'Main\x20Camera\x20📷',
                     'callback_data': _0x506000(0x168)
                 }, {
-                    'text': 'Ön\x20Kamera\x20🤳',
+                    'text': 'Front\x20Camera\x20🤳',
                     'callback_data': _0x506000(0x160)
                 }],
                 [{
@@ -198,7 +198,7 @@ function _0x2559(_0x75be18, _0x458b6b) {
                     'parse_mode': _0x21d68c(0x181)
                 });
             });
-        } else bot[_0x506000(0x18e)](chatId, '<b>Aktif\x20Cihax\x20Yok</b>\x20❌', {
+        } else bot[_0x506000(0x18e)](chatId, '<b>No\x20Online\x20Client</b>\x20❌', {
             'parse_mode': 'HTML'
         });
     }
